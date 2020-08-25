@@ -1,12 +1,10 @@
 # quizzler-app
-##Our Goal
 
-
-###What I will create
+## What I will create
 
 * I will program a trivia quiz app where you can choose between true and false. 
 
-###What I will learn
+## What I will learn
 
 * Model View Controller (MVC) Pattern.
 * How to programmatically change UI elements such as Labels and Buttons.
