@@ -2,7 +2,7 @@
 
 ## What I will create
 
-* I will program a trivia quiz app where you can choose between true and false. 
+* A trivia quiz app where you can choose between true and false. 
 
 ## What I will learn
 
@@ -14,5 +14,5 @@
 * Understand the difference between value types and reference types.
 * Learn about Swift Classes and creating Objects.
 * Compare Swift Classes with Swift Structs and know when to use which.
-Learn about Object Oriented Programming.
+* Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
